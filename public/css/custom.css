@@ -1,0 +1,15 @@
+td.cell-yellow {
+    background: #fffd4f;
+}
+
+td.cell-red {
+    background: red;
+}
+
+td.cell-black {
+    background: #000000;
+}
+
+.btn-add-game {
+    margin: 55px 0 0 20px;
+}
